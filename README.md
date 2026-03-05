@@ -87,9 +87,9 @@
 
 ## 👤 作者
 
-作者：Endless
-开发工具：Visual Studio 2022
-开发语言：C++
+* 作者：Endless
+* 开发工具：Visual Studio 2022
+* 开发语言：C++
 
 ---
 
